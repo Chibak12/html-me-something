@@ -14,6 +14,10 @@ body.dotted {border-style: dotted;}
 table {
   border: 1px solid black;
 }
+
+#Myresume {
+  background-color: red;
+}
 /*border: 1px solid black; */
 
 /* {
